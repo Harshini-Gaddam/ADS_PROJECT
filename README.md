@@ -6,4 +6,4 @@ beacuse now-a-days workers are getting affected because of the negative reviews 
 This is done using Sequence classification which uses bert-base-uncased model created by hugging face which has lot of pre-trained models. 
 Bert tokenizer is used from pretrained bert-base-model. 
 The data for the reviews comes from the Uber website. The dataset is first trained, then validated.
-Model's accuracy, recall score, precision score,  
+Model's accuracy, recall score, precision score and F1 score are computed.  
